@@ -1,0 +1,8 @@
+Diagram Intelligence
+Copyright (c) 2026 Diagram Intelligence contributors
+
+The skill's structure (a router with entry points, knowledge modules loaded per
+task, leveled rules with IDs, an evidence model, Hard Gates, and a Delivery Gate
+report) is adapted from RYUX, https://github.com/ryuxdsgn/design-intelligence,
+which is MIT licensed. No RYUX text is copied. The rules and content are written
+for diagrams.

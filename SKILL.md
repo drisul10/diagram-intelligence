@@ -6,7 +6,7 @@ description: "Diagram Intelligence - evidence-backed Mermaid and Markdown diagra
 # Diagram Intelligence
 
 > Evidence-backed Mermaid and Markdown diagrams. Diagram Intelligence 0.1.0, MIT licensed.
-> Structure adapted from RYUX (ryuxdsgn/design-intelligence, MIT); see LICENSE.
+> Structure adapted from RYUX (ryuxdsgn/design-intelligence, MIT); see NOTICE.
 
 A diagram is a claim about a system. Every box, line, label, and number on it says "this exists and
 works this way". This skill makes the agent find out before it draws, draw only what the evidence
