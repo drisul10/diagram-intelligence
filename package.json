@@ -1,0 +1,31 @@
+{
+  "name": "diagram-intelligence",
+  "version": "0.1.0",
+  "description": "Agent skill for evidence-backed Mermaid and Markdown diagrams, with a render validator.",
+  "keywords": ["claude", "claude-code", "agent-skill", "mermaid", "diagram", "markdown"],
+  "homepage": "https://github.com/drisul10/diagram-intelligence#readme",
+  "bugs": "https://github.com/drisul10/diagram-intelligence/issues",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drisul10/diagram-intelligence.git"
+  },
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "diagram-intelligence": "bin/cli.mjs"
+  },
+  "files": [
+    "bin/",
+    "SKILL.md",
+    "NOTICE",
+    "capabilities/",
+    "knowledge/",
+    "types/",
+    "scripts/validate.mjs",
+    "scripts/package.json",
+    "scripts/package-lock.json"
+  ],
+  "engines": {
+    "node": ">=22.12"
+  }
+}

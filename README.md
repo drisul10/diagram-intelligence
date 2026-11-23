@@ -54,6 +54,18 @@ the task needs.
 
 Requires Node 22.12 or newer and a Chrome, Chromium, or Edge install.
 
+### With npm
+
+```bash
+npx diagram-intelligence install --validator
+```
+
+This copies the skill to `~/.claude/skills/diagram-intelligence` and installs the validator using your
+system browser. Use `--dir DIR` to install elsewhere, `--force` to replace an existing install, and
+omit `--validator` to skip the 440 MB validator dependencies.
+
+### From source
+
 1. Clone the repo into your agent's skills folder. For Claude Code:
 
    ```bash
